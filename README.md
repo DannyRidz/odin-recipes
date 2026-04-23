@@ -1,3 +1,3 @@
-This is my first Odin Project to creating a basic HTML website regarding project recipes.
+This is my first Odin Project to creating a basic HTML and CSS website regarding project recipe.
 
-This project will be focusing on HTML only.
+This project will be focusing on basic HTML and CSS.
